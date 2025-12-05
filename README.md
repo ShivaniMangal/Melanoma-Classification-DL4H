@@ -1,7 +1,9 @@
 # Melanoma-Classification-DL4H
 
 CS598 DL4H UIUC
+
 garimam3 Garima Maheshwari
+
 sm131 Shivani Mangaleswaran
 
 This repository is a minimalistic reproduction of the Conference Paper titled "A Study of Artifacts on Melanoma Classification under Diffusion-Based Perturbations"
