@@ -1,6 +1,6 @@
 # Melanoma-Classification-DL4H
 
-CS498 DL4H UIUC
+CS598 DL4H UIUC
 garimam3 Garima Maheshwari
 sm131 Shivani Mangaleswaran
 
