@@ -1,4 +1,9 @@
 # Melanoma-Classification-DL4H
+
+CS498 DL4H UIUC
+garimam3 Garima Maheshwari
+sm131 Shivani Mangaleswaran
+
 This repository is a minimalistic reproduction of the Conference Paper titled "A Study of Artifacts on Melanoma Classification under Diffusion-Based Perturbations"
 Qixuan Jin, Marzyeh Ghassemi Proceedings of the sixth Conference on Health, Inference, and Learning, PMLR 287:844-861, 2025
 https://proceedings.mlr.press/v287/jin25b.html
