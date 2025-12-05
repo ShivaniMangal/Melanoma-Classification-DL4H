@@ -7,4 +7,4 @@ In melanoma classification, deep learning models have been shown to rely on non-
 
 Code was forked from: https://github.com/QixuanJin99/dermoscopic_artifacts/blob/main/dermatology_melanoma_classification.ipynb
 
-For our code reproduction, we focused on three modes: High Lesion, Low Background and Whole modes. We trained ResNet50 on the ISIC Dataset and cross evaluated our models on the HAM10000 dataset. For an Ablastion study, we trained a ResNet34 model and performed cross evaluations the same datsets. 
+For our code reproduction, we focused on three modes: High Lesion, Low Background and Whole modes. We trained ResNet50 on the ISIC Dataset and cross evaluated our models on the HAM10000 dataset. For an ablation study, we trained a ResNet34 model and performed cross evaluations the same datsets. 
